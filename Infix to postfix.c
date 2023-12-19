@@ -1,5 +1,5 @@
 /*
-Infix - postfix
+C program to convert Infix to postfix expression conversion using array as a stack
 */
 
 #include <stdio.h>
